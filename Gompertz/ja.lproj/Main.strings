@@ -1,0 +1,108 @@
+
+/* Class = "UIBarButtonItem"; title = "clear"; ObjectID = "20d-6j-tq8"; */
+"20d-6j-tq8.title" = "clear";
+
+/* Class = "UILabel"; text = "t2"; ObjectID = "4PV-Kf-l3x"; */
+"4PV-Kf-l3x.text" = "t2";
+
+/* Class = "UINavigationItem"; title = "Data"; ObjectID = "8EK-6n-tZh"; */
+"8EK-6n-tZh.title" = "Data";
+
+/* Class = "UINavigationItem"; title = "Saved"; ObjectID = "AYs-Jr-TNc"; */
+"AYs-Jr-TNc.title" = "保存済み";
+
+/* Class = "UILabel"; text = "tx"; ObjectID = "DVf-Ne-XlN"; */
+"DVf-Ne-XlN.text" = "tx";
+
+/* Class = "UIBarButtonItem"; title = "Graph"; ObjectID = "Kvh-Hs-ee7"; */
+"Kvh-Hs-ee7.title" = "Graph";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "OAV-hE-lia"; */
+"OAV-hE-lia.placeholder" = "value";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "TIE-sL-Uxg"; */
+"TIE-sL-Uxg.text" = "time";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "V1k-mo-vIi"; */
+"V1k-mo-vIi.placeholder" = "value";
+
+/* Class = "UIButton"; normalTitle = "RUN"; ObjectID = "W5h-SK-ZXl"; */
+"W5h-SK-ZXl.normalTitle" = "RUN";
+
+/* Class = "UILabel"; text = "t0"; ObjectID = "XGh-vO-Xh7"; */
+"XGh-vO-Xh7.text" = "t0";
+
+/* Class = "UITextField"; placeholder = "option"; ObjectID = "Y1I-ee-nxc"; */
+"Y1I-ee-nxc.placeholder" = "option";
+
+/* Class = "UILabel"; text = "F(t)"; ObjectID = "Yeu-fe-oDr"; */
+"Yeu-fe-oDr.text" = "F(t)";
+
+/* Class = "UILabel"; text = "LogF(t)="; ObjectID = "aez-BU-vB1"; */
+"aez-BU-vB1.text" = "LogF(t)=";
+
+/* Class = "UILabel"; text = "F(t2)"; ObjectID = "cUQ-TF-kfS"; */
+"cUQ-TF-kfS.text" = "F(t2)";
+
+/* Class = "UISegmentedControl"; cdi-fU-isB.segmentTitles[0] = "Numeral"; ObjectID = "cdi-fU-isB"; */
+"cdi-fU-isB.segmentTitles[0]" = "数字";
+
+/* Class = "UISegmentedControl"; cdi-fU-isB.segmentTitles[1] = "Date"; ObjectID = "cdi-fU-isB"; */
+"cdi-fU-isB.segmentTitles[1]" = "年月日";
+
+/* Class = "UILabel"; text = "F(t)="; ObjectID = "eN7-zj-t0q"; */
+"eN7-zj-t0q.text" = "F(t)=";
+
+/* Class = "UISegmentedControl"; far-Vc-ILn.segmentTitles[0] = "F(t)"; ObjectID = "far-Vc-ILn"; */
+"far-Vc-ILn.segmentTitles[0]" = "F(t)";
+
+/* Class = "UISegmentedControl"; far-Vc-ILn.segmentTitles[1] = "log F(t)"; ObjectID = "far-Vc-ILn"; */
+"far-Vc-ILn.segmentTitles[1]" = "log F(t)";
+
+/* Class = "UINavigationItem"; title = "Gompertz Curve Calculator"; ObjectID = "g9Z-Tn-PBb"; */
+"g9Z-Tn-PBb.title" = "Gompertz 曲線計算機";
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "j7G-TZ-RQu"; */
+"j7G-TZ-RQu.placeholder" = "time";
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "ksr-zb-6yW"; */
+"ksr-zb-6yW.placeholder" = "time";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "lD4-lY-jQ2"; */
+"lD4-lY-jQ2.placeholder" = "value";
+
+/* Class = "UILabel"; text = "F(t0)"; ObjectID = "nSq-e5-ySQ"; */
+"nSq-e5-ySQ.text" = "F(t0)";
+
+/* Class = "UILabel"; text = "F(t1)"; ObjectID = "pld-IQ-mYO"; */
+"pld-IQ-mYO.text" = "F(t1)";
+
+/* Class = "UINavigationItem"; title = "Graph"; ObjectID = "rT6-lK-R06"; */
+"rT6-lK-R06.title" = "Graph";
+
+/* Class = "UILabel"; text = "t1"; ObjectID = "rkT-z9-1A5"; */
+"rkT-z9-1A5.text" = "t1";
+
+/* Class = "UIBarButtonItem"; title = "Saved"; ObjectID = "ru3-BX-4gz"; */
+"ru3-BX-4gz.title" = "保存済み";
+
+/* Class = "UILabel"; text = "Gmax"; ObjectID = "tw2-zu-Dee"; */
+"tw2-zu-Dee.text" = "Gmax";
+
+/* Class = "UIBarButtonItem"; title = "Data"; ObjectID = "u0g-iv-opY"; */
+"u0g-iv-opY.title" = "Data";
+
+/* Class = "UILabel"; text = "F(tx)"; ObjectID = "uBc-MR-M1J"; */
+"uBc-MR-M1J.text" = "F(tx)";
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "uhg-yr-lyC"; */
+"uhg-yr-lyC.placeholder" = "time";
+
+/* Class = "UILabel"; text = "Gmax"; ObjectID = "vMG-dh-L4p"; */
+"vMG-dh-L4p.text" = "Gmax";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "vwL-kH-KD6"; */
+"vwL-kH-KD6.title" = "保存";
+
+/* Class = "UILabel"; text = "Log Gmax"; ObjectID = "xQq-m0-Y6E"; */
+"xQq-m0-Y6E.text" = "Log Gmax";

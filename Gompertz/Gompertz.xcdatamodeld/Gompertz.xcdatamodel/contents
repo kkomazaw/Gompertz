@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="GompertzData" representedClassName="GompertzData" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="ft0" optional="YES" attributeType="String"/>
+        <attribute name="ft1" optional="YES" attributeType="String"/>
+        <attribute name="ft2" optional="YES" attributeType="String"/>
+        <attribute name="hasTx" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isDatePicker" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="memo" optional="YES" attributeType="String"/>
+        <attribute name="t0" optional="YES" attributeType="String"/>
+        <attribute name="t1" optional="YES" attributeType="String"/>
+        <attribute name="t2" optional="YES" attributeType="String"/>
+        <attribute name="tx" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="GompertzData" positionX="-63" positionY="-18" width="128" height="208"/>
+    </elements>
+</model>
